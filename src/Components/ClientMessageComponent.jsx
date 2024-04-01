@@ -27,7 +27,7 @@ const ClientMessageComponent = ({clientMessage}) => {
                 <div className='flex h-full p-3'>
                     <div className='w-1/4 h-full '>
                         <div className='h-full w-full'>
-                            <img className='rounded-full w-14 h-14' src={`../src/assets/${message.img}`} alt="" /> 
+                            <img className='rounded-full w-14 h-14' src={`../src/assets/ppl1.jpg`} alt="" /> 
                         </div>
                     </div>
                     <div className='w-3/4 h-full'>
