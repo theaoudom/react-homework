@@ -7,7 +7,7 @@ const NavbarComponent = () => {
     <div className=" w-full">
       <div className="navbar">
         <div className="flex-1 ml-24">
-          <a className="text-2xl font-bold text-black">Portfolio</a>
+          <a className="text-2xl font-bold text-black">Dom Project</a>
         </div>
         <div className="flex-none">
           <div className="dropdown dropdown-end">
