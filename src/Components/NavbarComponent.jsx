@@ -1,6 +1,6 @@
 import { BellRing } from "lucide-react";
 import React from "react";
-import pf from "../assets/pf.jpg"
+import pf from "../../public/pf.jpg"
 
 const NavbarComponent = () => {
   return (
